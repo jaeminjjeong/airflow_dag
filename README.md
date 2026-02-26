@@ -5,6 +5,9 @@ Automation of airflow script - airflow + Google cloud storage bucket + BigQuery
 #### https://console.cloud.google.com/storage/browser/bonaventura
 ## Reference
 ####
+
+https://airflow.apache.org/docs/apache-airflow-providers-google/stable/operators/transfer/gcs_to_bigquery.html
+
 https://www.youtube.com/watch?v=LmQhHcueJs0
 
 https://airflow.apache.org/docs/apache-airflow/stable/howto/docker-compose/index.html
