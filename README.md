@@ -1,5 +1,8 @@
 # airflow_dag
 Automation of airflow script - airflow + Google cloud storage bucket + BigQuery
+
+## GCP storage:
+#### https://console.cloud.google.com/storage/browser/bonaventura
 ## Reference
 ####
 https://www.youtube.com/watch?v=LmQhHcueJs0
